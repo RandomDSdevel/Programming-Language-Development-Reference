@@ -13,6 +13,7 @@ This document lists some possible topics for future research with respect to wha
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL), its revisions (not enumerated here for brevity,) and minor derivatives (more significant derivatives and successors reside on their own lines in this document and may not have their lineage laid out explicitly, as ALGOL spawned _quite_ a _lot_ of languages:)  
   * [S3](https://en.wikipedia.org/wiki/S3_(programming_language))
 * [Amiga E](https://en.wikipedia.org/wiki/Amiga_E) and descendants
+* [API Elements](http://api-elements.readthedocs.io/en/latest/)
 * [APL](https://en.wikipedia.org/wiki/APL_(programming_language))
 * [AppleScript](https://en.wikipedia.org/wiki/AppleScript)
 * [AspectJ](https://en.wikipedia.org/wiki/AspectJ)
@@ -33,9 +34,11 @@ This document lists some possible topics for future research with respect to wha
 * [BitC](https://en.wikipedia.org/wiki/BitC)
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)) and variant dialect:  
   * [SA-C](https://en.wikipedia.org/wiki/SA-C_(programming_language)) (Notable only for how it added an alternate multi-dimensional array design to C, _not_ for the features it removed from that language to be, in the minds of its creators, more useful for embedded hardware.)  
-* [C++](https://en.wikipedia.org/wiki/C%2B%2B) and related libraries
+* [C++](https://en.wikipedia.org/wiki/C%2B%2B) and related libraries:  
   * The [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
   * The C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
+  * [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
+  * [Qt](https://en.wikipedia.org/wiki/Qt_(software))
 * [C♯](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and extensions:  
   * [Spec♯](https://en.wikipedia.org/wiki/Spec_Sharp) and extension:  
     * [Sing♯](https://en.wikipedia.org/wiki/Spec_Sharp#Sing_Sharp)
@@ -54,6 +57,7 @@ This document lists some possible topics for future research with respect to wha
 * [CoffeeScript](https://en.wikipedia.org/wiki/CoffeeScript)
 * [Adobe Coldfusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)
 * [Common Intermediate Language](https://en.wikipedia.org/wiki/Common_Intermediate_Language)
+* [CompCert](https://en.wikipedia.org/wiki/CompCert)
 * Microsoft's [Component Object Model](https://en.wikipedia.org/wiki/Component_Object_Model)
 * [Converge](https://en.wikipedia.org/wiki/Converge_(programming_language))
 * [Coq](https://en.wikipedia.org/wiki/Coq)
@@ -125,6 +129,7 @@ This document lists some possible topics for future research with respect to wha
 * [Io](https://en.wikipedia.org/wiki/Io_(programming_language))
 * [Ioke](https://en.wikipedia.org/wiki/Ioke_(programming_language))
 * [IPL](https://en.wikipedia.org/wiki/Information_Processing_Language)
+* [Isabelle](https://en.wikipedia.org/wiki/Isabelle_(proof_assistant))
 * [J](https://en.wikipedia.org/wiki/J_(programming_language))
 * [J♯](https://en.wikipedia.org/wiki/J_Sharp)
 * [J++](https://en.wikipedia.org/wiki/Visual_J%2B%2B)
@@ -144,6 +149,7 @@ This document lists some possible topics for future research with respect to wha
 * [L](https://en.wikipedia.org/wiki/L_(programming_language)) (second bulleted item; see also [here](http://home.cc.gatech.edu/tony/61))
 * [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW)
 * [Language Integrated Query](https://en.wikipedia.org/wiki/Language_Integrated_Query)
+* The [Language Server Protocol](https://en.wikipedia.org/wiki/Language_Server_Protocol)
 * [Lasso](https://en.wikipedia.org/wiki/Lasso_(programming_language))
 * [Leda](https://en.wikipedia.org/wiki/Leda_(programming_language))
 * [Limbo](https://en.wikipedia.org/wiki/Limbo_(programming_language))
@@ -163,6 +169,7 @@ This document lists some possible topics for future research with respect to wha
 * [Lithe](https://en.wikipedia.org/wiki/Lithe_(programming_language))
 * [LiveCode](https://en.wikipedia.org/wiki/LiveCode)
 * [LiveScript](https://en.wikipedia.org/wiki/LiveScript)
+* [LLVM](https://en.wikipedia.org/wiki/LLVM) (Obvious possible infrastructure to start bootstrapping the creation of a working compiler for a new programming language.)  
 * [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) and variant:  
   * [StarLogo](https://en.wikipedia.org/wiki/StarLogo)
 * [Logtalk](https://en.wikipedia.org/wiki/Logtalk)
@@ -329,6 +336,7 @@ This document lists some possible topics for future research with respect to wha
   * [Vim script](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script)
   * [Z shell (`zsh`)](https://en.wikipedia.org/wiki/Z_shell)
 * [SIGNAL](https://en.wikipedia.org/wiki/SIGNAL_(programming_language))
+* The [Simple DirectMedia Layer](https://en.wikipedia.org/wiki/Simple_DirectMedia_Layer)
 * [SIMSCRIPT](https://en.wikipedia.org/wiki/SIMSCRIPT) (Notable for its influence on Simula.)  
 * [Simula](https://en.wikipedia.org/wiki/Simula)
 * [SISAL](https://en.wikipedia.org/wiki/SISAL)
@@ -528,6 +536,7 @@ This document lists some possible topics for future research with respect to wha
 * Add references to current and past C++ TSes (Technical Specifications.)  
 * Add references to programming-language evolution and purpose manifestos suitable for drawing inspiration from (possibly for improving the documentation behind the rationale for this programming language's conception…?)  
 * Add references to types of programming languages as classified by [Wikipedia]()'s [list of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type) to this documentat's [section on 'Programming Concepts and Methodologies'](#programming-concepts-and-methodologies).  
+* Add more references to useful examples of code libraries written in other programming languages that might serve as good inspiration for core, standard, and/or common-use libraries that should get created for this one.  
 
 ## Sources
 
