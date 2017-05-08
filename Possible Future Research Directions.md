@@ -459,6 +459,7 @@ This document lists some possible topics for future research with respect to wha
     * [Functional reactive programming](https://en.wikipedia.org/wiki/Functional_reactive_programming)
   * [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
   * [Logic programming](https://en.wikipedia.org/wiki/Logic_programming)
+* [Defensive programming](https://en.wikipedia.org/wiki/Defensive_programming)
 * [Design by contract](https://en.wikipedia.org/wiki/Design_by_contract)
 * Dynamic programming (as in [dynamic programming languages](https://en.wikipedia.org/wiki/Dynamic_programming_language))
 * [End-user development](https://en.wikipedia.org/wiki/End-user_development)
