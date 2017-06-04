@@ -10,6 +10,7 @@ This document lists some possible topics for future research with respect to wha
 * [ActiveX](https://en.wikipedia.org/wiki/ActiveX)
 * [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)) and variant:  
   * [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
+* [Agda](https://en.wikipedia.org/wiki/Agda_(programming_language))
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL), its revisions (not enumerated here for brevity,) and minor derivatives (more significant derivatives and successors reside on their own lines in this document and may not have their lineage laid out explicitly, as ALGOL spawned _quite_ a _lot_ of languages:)  
   * [S3](https://en.wikipedia.org/wiki/S3_(programming_language))
 * [Amiga E](https://en.wikipedia.org/wiki/Amiga_E) and descendants
@@ -125,6 +126,7 @@ This document lists some possible topics for future research with respect to wha
 * [HyperTalk](https://en.wikipedia.org/wiki/HyperTalk) (as used in [HyperCard](https://en.wikipedia.org/wiki/HyperCard) and derivative:  
   * [SenseTalk](https://en.wikipedia.org/wiki/SenseTalk)
   * [Strongtalk](https://en.wikipedia.org/wiki/Strongtalk)
+* [Idris](https://en.wikipedia.org/wiki/Idris_(programming_language))
 * [IMP](https://en.wikipedia.org/wiki/IMP_(programming_language))
 * [Io](https://en.wikipedia.org/wiki/Io_(programming_language))
 * [Ioke](https://en.wikipedia.org/wiki/Ioke_(programming_language))
