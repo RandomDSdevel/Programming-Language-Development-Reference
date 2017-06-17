@@ -249,8 +249,9 @@ This document lists some possible topics for future research with respect to wha
 * [Opa](https://en.wikipedia.org/wiki/Opa_(programming_language))
 * [OpenACC](https://en.wikipedia.org/wiki/OpenACC)
 * [OpenCL](https://en.wikipedia.org/wiki/OpenCL)
-* [OpenGL](https://en.wikipedia.org/wiki/OpenGL) and variants/derivatives:  
+* [OpenGL](https://en.wikipedia.org/wiki/OpenGL) and variants/derivatives and related technologies:  
   * [OpenGL ES](https://en.wikipedia.org/wiki/OpenGL_ES)
+  * [OpenVG](https://en.wikipedia.org/wiki/OpenVG)
   * [Vulkan](https://en.wikipedia.org/wiki/Vulkan_(API))
 * [OpenMP](https://en.wikipedia.org/wiki/OpenMP)
 * [OptimJ](https://en.wikipedia.org/wiki/OptimJ)
@@ -296,6 +297,7 @@ This document lists some possible topics for future research with respect to wha
 * [REXX](https://en.wikipedia.org/wiki/REXX) and derivatives/descendents:  
   * [NetREXX](https://en.wikipedia.org/wiki/NetRexx)
   * [Object REXX](https://en.wikipedia.org/wiki/Object_REXX)
+* [Ring](https://en.wikipedia.org/wiki/Ring_(programming_language))
 * [Rlab](https://en.wikipedia.org/wiki/Rlab)
 * [ROOP](https://en.wikipedia.org/wiki/ROOP_(programming_language))
 * [RPG](https://en.wikipedia.org/wiki/IBM_RPG) and successor:  
