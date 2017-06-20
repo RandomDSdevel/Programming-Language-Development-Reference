@@ -118,7 +118,8 @@ This document lists some possible topics for future research with respect to wha
 * [Groovy](https://en.wikipedia.org/wiki/Groovy_(programming_language))
 * [Hack](https://en.wikipedia.org/wiki/Hack_(programming_language))
 * [Hartmann pipelines](https://en.wikipedia.org/wiki/Hartmann_pipeline)
-* [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language))
+* [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) and descendant:  
+  * [hobbes](https://github.com/Morgan-Stanley/hobbes)
 * [Haxe](https://en.wikipedia.org/wiki/Haxe)
 * [High Level Assembly](https://en.wikipedia.org/wiki/High_Level_Assembly)
 * [Hope](https://en.wikipedia.org/wiki/Hope_(programming_language))
