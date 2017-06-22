@@ -237,7 +237,7 @@ This document lists some possible topics for future research with respect to wha
 * [Oak](https://en.wikipedia.org/wiki/Oak_(programming_language))
 * [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language))
 * Microsoft's [Object Linking and Embedding](https://en.wikipedia.org/wiki/Object_Linking_and_Embedding)
-* [Objective-C](https://en.wikipedia.org/wiki/Objective-C) and related language and libraries:  
+* [Objective-C](https://en.wikipedia.org/wiki/Objective-C) and related language and library:  
   * [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API))
   * [Objective-C++](https://en.wikipedia.org/wiki/Objective-C#Objective-C.2B.2B)
 * [Objective-J](https://en.wikipedia.org/wiki/Objective-J)
