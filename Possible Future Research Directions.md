@@ -253,6 +253,7 @@ This document lists some possible topics for future research with respect to wha
 * [OpenGL](https://en.wikipedia.org/wiki/OpenGL) and variants/derivatives and related technologies:  
   * [OpenGL ES](https://en.wikipedia.org/wiki/OpenGL_ES)
   * [OpenVG](https://en.wikipedia.org/wiki/OpenVG)
+  * [OpenVX](https://en.wikipedia.org/wiki/OpenVX)
   * [Vulkan](https://en.wikipedia.org/wiki/Vulkan_(API))
 * [OpenMP](https://en.wikipedia.org/wiki/OpenMP)
 * [OptimJ](https://en.wikipedia.org/wiki/OptimJ)
