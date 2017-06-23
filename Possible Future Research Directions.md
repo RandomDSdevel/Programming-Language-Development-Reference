@@ -38,6 +38,24 @@ This document lists some possible topics for future research with respect to wha
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B) and related libraries:  
   * The [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
   * The C++ [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library)
+  * Published and progressing/upcoming ISO C++ [Technical Specifcations](http://en.cppreference.com/w/cpp/experimental):  
+    * [ISO/IEC TS 18822:2015:  C++ File System Technical Specification](http://en.cppreference.com/w/cpp/experimental/fs)
+    * [ISO/IEC TS 19570:2015:  C++ Extensions for Parallelism](http://en.cppreference.com/w/cpp/experimental/parallelism)
+    * [ISO/IEC TS 19841:2015:  Technical Specification for C++ Extensions for Transactional Memory](http://en.cppreference.com/w/cpp/language/transactional_memory)
+    * [ISO/IEC TS 19568:2015:  C++ Extensions for Library Fundamentals](http://en.cppreference.com/w/cpp/experimental/lib_extensions)
+    * [ISO/IEC TS 19217:2015:  C++ Extensions for Concepts](http://en.cppreference.com/w/cpp/language/constraints)
+    * [ISO/IEC TS 19571:2016:  C++ Extensions for Concurrency](http://en.cppreference.com/w/cpp/experimental/concurrency)
+    * [ISO/IEC TS 19568:2017:  C++ Extensions for Library Funcatmentals, Version 2](http://en.cppreference.com/w/cpp/experimental/lib_extensions_2)
+    * [ISO/IEC DTS 21425:xxxx:  C++ Extensions for Ranges](http://en.cppreference.com/w/cpp/experimental/ranges)
+    * ISO/IEC DTS 19216:xxxx:  C++ Extensions for Networking
+    * ISO/IEC DTS 22277:xxxx:  Technical Specification for C++ Extensions for Coroutines
+    * ISO/IEC DTS 22277:xxxx:  Extensions to C++ for Modules
+    * Reflection TS (Not yet assigned an ISO/IEC document number, as it is still in the early development and drafting stages.)  
+    * Numerics TS (Not yet assigned an ISO/IEC document number, as it is still in the early development and drafting stages.)  
+    * ISO/IEC DTS 19571:xxxx:  Concurrency TS 2 (Still in the early development stages.)  
+    * ISO/IEC DTS 19570:xxxx:  Technical Specification for C++ Extensions for Parallelism Version 2 (Still in the early development and drafting stages.)  
+    * ISO/IEC DTS 19841:xxxx:  Transactional Memory TS 2 (Still in the early development stages.)  
+    * Graphics TS (Still in the early development and drafting stages.  Contentious/controversial.)  
   * [Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
   * [Qt](https://en.wikipedia.org/wiki/Qt_(software))
 * [C♯](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and extensions:  
@@ -539,7 +557,6 @@ This document lists some possible topics for future research with respect to wha
 #### To-Do/Fix-It
 
 * Correct the fact that _one_ of the programming languages in this document is included herein because it was the earliest one to have a 128-bit (possibly extended?) floating-point data type mapped to the underlying [IBM System/370](https://en.wikipedia.org/wiki/IBM_System/370) hardware, but I can't, for the life of me, remember _which one_ so as to add a corresponding inline note to it in parentheses at the end of its bullet-point/-item line.)  
-* Add references to current and past C++ TSes (Technical Specifications.)  
 * Add references to programming-language evolution and purpose manifestos suitable for drawing inspiration from (possibly for improving the documentation behind the rationale for this programming language's conception…?)  
 * Add references to types of programming languages as classified by [Wikipedia]()'s [list of programming languages by type](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type) to this documentat's [section on 'Programming Concepts and Methodologies'](#programming-concepts-and-methodologies).  
 * Add more references to useful examples of code libraries written in other programming languages that might serve as good inspiration for core, standard, and/or common-use libraries that should get created for this one.  
