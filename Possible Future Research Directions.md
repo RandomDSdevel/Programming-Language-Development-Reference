@@ -14,6 +14,7 @@ This document lists some possible topics for future research with respect to wha
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL), its revisions (not enumerated here for brevity,) and minor derivatives (more significant derivatives and successors reside on their own lines in this document and may not have their lineage laid out explicitly, as ALGOL spawned _quite_ a _lot_ of languages:)  
   * [S3](https://en.wikipedia.org/wiki/S3_(programming_language))
 * [Amiga E](https://en.wikipedia.org/wiki/Amiga_E) and descendants
+* [AngelScript](https://en.wikipedia.org/wiki/AngelScript)
 * [API Elements](http://api-elements.readthedocs.io/en/latest/)
 * [APL](https://en.wikipedia.org/wiki/APL_(programming_language))
 * [AppleScript](https://en.wikipedia.org/wiki/AppleScript)
