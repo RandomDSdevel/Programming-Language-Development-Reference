@@ -195,6 +195,7 @@ This document lists some possible topics for future research with respect to wha
 * [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) and variant:  
   * [StarLogo](https://en.wikipedia.org/wiki/StarLogo)
 * [Logtalk](https://en.wikipedia.org/wiki/Logtalk)
+* [LPC (Lars Pensjö C)](https://en.wikipedia.org/wiki/LPC_(programming_language))
 * [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
 * [Lucid](https://en.wikipedia.org/wiki/Lucid_(programming_language))
 * [Lustre](https://en.wikipedia.org/wiki/Lustre_(programming_language))
