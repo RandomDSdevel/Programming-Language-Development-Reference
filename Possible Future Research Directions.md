@@ -497,6 +497,7 @@ This document lists some possible topics for future research with respect to wha
 * [Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming) and sub-disciplines:  
   * <a id="literate-programming">[Literate programming](https://en.wikipedia.org/wiki/Literate_programming)</a>
   * [Procedural programming](https://en.wikipedia.org/wiki/Procedural_programming)
+* The [interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
 * [Interprocess communication](https://en.wikipedia.org/wiki/interprocess%20communication)
 * [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming) and examples of it:  
   * [Automatic programming](https://en.wikipedia.org/wiki/Automatic_programming) and sub-discipline:  
