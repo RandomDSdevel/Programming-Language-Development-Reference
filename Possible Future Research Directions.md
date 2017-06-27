@@ -32,9 +32,9 @@ This document lists some possible topics for future research with respect to wha
     * [Visual Basic .NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET), Visual Basic's quasi-successor.  
   * [ProvideX](https://en.wikipedia.org/wiki/ProvideX)
   * [Xojo](https://en.wikipedia.org/wiki/Xojo)
+* [Batch files](https://en.wikipedia.org/wiki/Batch_file)
 * [`bc`](https://en.wikipedia.org/wiki/Bc_(programming_language))
 * [BCPL](https://en.wikipedia.org/wiki/BCPL)
-* [Batch files](https://en.wikipedia.org/wiki/Batch_file)
 * [Bertrand](https://en.wikipedia.org/wiki/Bertrand_(programming_language))
 * [BitC](https://en.wikipedia.org/wiki/BitC)
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)) and variant dialect:  
@@ -125,7 +125,6 @@ This document lists some possible topics for future research with respect to wha
 * [Factor](https://en.wikipedia.org/wiki/Factor_(programming_language))
 * [Falcon](https://en.wikipedia.org/wiki/Falcon_(programming_language))
 * [Fantom](https://en.wikipedia.org/wiki/Fantom_(programming_language))
-* [FP](https://en.wikipedia.org/wiki/FP_(programming_language))
 * [FL](https://en.wikipedia.org/wiki/FL_(programming_language))
 * [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
 * [Fortran](https://en.wikipedia.org/wiki/Fortran) and derivatives:  
@@ -134,6 +133,7 @@ This document lists some possible topics for future research with respect to wha
     * [Ratfiv](https://en.wikipedia.org/wiki/Ratfiv) (Derivative of Ratfor, see next bullet item for that.)  
     * [Ratfor](https://en.wikipedia.org/wiki/Ratfor)
   * [WATFIV](https://en.wikipedia.org/wiki/WATFIV)
+* [FP](https://en.wikipedia.org/wiki/FP_(programming_language))
 * [F-Script](https://en.wikipedia.org/wiki/F-Script_(programming_language))
 * [Genie](https://en.wikipedia.org/wiki/Genie_(programming_language))
 * [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
@@ -407,7 +407,6 @@ This document lists some possible topics for future research with respect to wha
   * SugarHaskell (Similarly extends Haskell.)  
 * Apple [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Swift](https://en.wikipedia.org/wiki/Swift_(parallel_scripting_language))
-* [Transaction Application Language](https://en.wikipedia.org/wiki/Transaction_Application_Language) (Notable for how it combines ALGOL- and Pascal-like syntax with C-like semantics.)  
 * [Tangle](http://worrydream.com/Tangle/)
 * [Tcl](https://en.wikipedia.org/wiki/Tcl) and extensions:  
   * [Tk](https://en.wikipedia.org/wiki/Tk_(software))
@@ -432,6 +431,7 @@ This document lists some possible topics for future research with respect to wha
 * [Toi](https://en.wikipedia.org/wiki/Toi_(programming_language))
 * [TRAC](https://en.wikipedia.org/wiki/TRAC_(programming_language)) and a recipient of influence therefrom:  
   * [TTM](https://en.wikipedia.org/wiki/TTM_(programming_language))
+* [Transaction Application Language](https://en.wikipedia.org/wiki/Transaction_Application_Language) (Notable for how it combines ALGOL- and Pascal-like syntax with C-like semantics.)  
 * [TTCN](https://en.wikipedia.org/wiki/TTCN)
 * [Turing](https://en.wikipedia.org/wiki/Turing_(programming_language))
 * [TUTOR](https://en.wikipedia.org/wiki/TUTOR_(programming_language))
@@ -513,6 +513,14 @@ This document lists some possible topics for future research with respect to wha
   * [Procedural programming](https://en.wikipedia.org/wiki/Procedural_programming)
 * The [interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
 * [Interprocess communication](https://en.wikipedia.org/wiki/interprocess%20communication)
+* [Language-oriented programming](https://en.wikipedia.org/wiki/Language-oriented_programming) and possibly-relevant sub-types:  
+  * [Domain-specific language](https://en.wikipedia.org/wiki/Natural_language_programming) generation and use
+  * [Grammar-oriented programming](https://en.wikipedia.org/wiki/Grammar-oriented_programming) and a possible example of it:  
+    * Construction of programming-language [dialects](https://en.wikipedia.org/wiki/Dialect_(computing))
+  * [Intentional programming](https://en.wikipedia.org/wiki/Intentional_programming)
+  * [Natural-language programming](https://en.wikipedia.org/wiki/Natural_language_programming)
+* Learnable programming (See the blog post by the same name in the following section.)  
+* [Liskov substitutability](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
 * [Metaprogramming](https://en.wikipedia.org/wiki/Metaprogramming) and examples of it:  
   * [Automatic programming](https://en.wikipedia.org/wiki/Automatic_programming) and sub-discipline:  
     * [Inductive programming](https://en.wikipedia.org/wiki/Inductive_programming)
@@ -522,14 +530,6 @@ This document lists some possible topics for future research with respect to wha
   * [Template metaprogramming](https://en.wikipedia.org/wiki/Template_metaprogramming) and a related methodology sometimes/often used with it:  
     * [Policy-based design](https://en.wikipedia.org/wiki/Policy-based_design)
   * The use of [macros](https://en.wikipedia.org/wiki/Macro_(computer_science))
-* [Language-oriented programming](https://en.wikipedia.org/wiki/Language-oriented_programming) and possibly-relevant sub-types:  
-  * [Domain-specific language](https://en.wikipedia.org/wiki/Natural_language_programming) generation and use
-  * [Grammar-oriented programming](https://en.wikipedia.org/wiki/Grammar-oriented_programming) and a possible example of it:  
-    * Construction of programming-language [dialects](https://en.wikipedia.org/wiki/Dialect_(computing))
-  * [Intentional programming](https://en.wikipedia.org/wiki/Intentional_programming)
-  * [Natural-language programming](https://en.wikipedia.org/wiki/Natural_language_programming)
-* Learnable programming (See the blog post by the same name in the following section.)  
-* [Liskov substitutability](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
 * [Modular programming](https://en.wikipedia.org/wiki/Modular_programming)
 * [Non-deterministic programming](https://en.wikipedia.org/wiki/Nondeterministic_programming)
 * [Non-structured programming](https://en.wikipedia.org/wiki/Non-structured_programming) and a (possible…?) example of it:  
@@ -543,6 +543,7 @@ This document lists some possible topics for future research with respect to wha
 * [Probabilistic programming languages](https://en.wikipedia.org/wiki/Probabilistic_programming_language)
 * [Semantic-oriented programming](https://en.wikipedia.org/wiki/Semantic-oriented_programming)
 * [Self-modifying code](https://en.wikipedia.org/wiki/Self-modifying_code)
+* The [single-responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 * [Structured programming](https://en.wikipedia.org/wiki/Structured_programming), including, but not limited to (some examples of this in this list also stand on their own and are thus assigned appropriate positions within its first level of bullets accordingly:)  
   * [Block](https://en.wikipedia.org/wiki/Block_(programming))-oriented programming
   * By [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
@@ -552,7 +553,6 @@ This document lists some possible topics for future research with respect to wha
   * The use of:  
     * [Iteration](https://en.wikipedia.org/wiki/Iteration#Computing)
     * [Recursion](https://en.wikipedia.org/wiki/Recursion_(computer_science))
-* The [single-responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 * [Tacit programming](https://en.wikipedia.org/wiki/Tacit_programming), or 'point-free style,' and an example of it:  
   * [Concatenative programming languages](https://en.wikipedia.org/wiki/Concatenative_programming_language) (Reminiscent of chained function application in some instances.)  
 * [Term rewriting](https://en.wikipedia.org/wiki/Term_rewriting)
