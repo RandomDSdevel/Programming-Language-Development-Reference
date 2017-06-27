@@ -484,6 +484,7 @@ This document lists some possible topics for future research with respect to wha
 * [Agent-oriented programming](https://en.wikipedia.org/wiki/Agent-oriented_programming)
 * [Applicative programming languages](https://en.wikipedia.org/wiki/Applicative_programming_language)
 * [Automata-based programming](https://en.wikipedia.org/wiki/Automata-based_programming)
+* [[']Begin[…]End['] languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type#Begin...End_languages) (Only in solving the problem that 'curly-brace' programming languages sometimes have in that their users can sometimes lose track of what block a closing delimiter ends as an optional annotation on that delimiter, methinks.)  
 * [Cohesion ([in] computer science)](https://en.wikipedia.org/wiki/Cohesion_(computer_science))
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering)
 * [Concept programming](https://en.wikipedia.org/wiki/Concept_programming)
