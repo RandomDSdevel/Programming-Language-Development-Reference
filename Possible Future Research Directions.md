@@ -141,6 +141,7 @@ This document lists some possible topics for future research with respect to wha
   * [hobbes](https://github.com/Morgan-Stanley/hobbes)
 * [Haxe](https://en.wikipedia.org/wiki/Haxe)
 * [High Level Assembly](https://en.wikipedia.org/wiki/High_Level_Assembly)
+* [Hollywood](https://en.wikipedia.org/wiki/Hollywood_(programming_language)) (_Maaaaaaay_-be…?)  
 * [Hope](https://en.wikipedia.org/wiki/Hope_(programming_language))
 * [Hume](https://en.wikipedia.org/wiki/Hume_(programming_language))
 * [HyperTalk](https://en.wikipedia.org/wiki/HyperTalk) (as used in [HyperCard](https://en.wikipedia.org/wiki/HyperCard) and derivative:  
