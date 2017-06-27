@@ -11,6 +11,7 @@ This document lists some possible topics for future research with respect to wha
 * [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)) and variant:  
   * [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language))
 * [Agda](https://en.wikipedia.org/wiki/Agda_(programming_language))
+* [AIMMS (Advanced Interactive Multidimensional Modeling System)](https://en.wikipedia.org/wiki/AIMMS)
 * [ALGOL](https://en.wikipedia.org/wiki/ALGOL), its revisions (not enumerated here for brevity,) and minor derivatives (more significant derivatives and successors reside on their own lines in this document and may not have their lineage laid out explicitly, as ALGOL spawned _quite_ a _lot_ of languages:)  
   * [S3](https://en.wikipedia.org/wiki/S3_(programming_language))
 * [Amiga E](https://en.wikipedia.org/wiki/Amiga_E) and descendants
@@ -22,6 +23,7 @@ This document lists some possible topics for future research with respect to wha
 * [Assembly language](https://en.wikipedia.org/wiki/Assembly_language) and [machine code](https://en.wikipedia.org/wiki/Machine_code)
 * [AWK](https://en.wikipedia.org/wiki/AWK)
 * [B](https://en.wikipedia.org/wiki/B_(programming_language))
+* [Babelsberg](https://github.com/babelsberg)
 * [BASIC](https://en.wikipedia.org/wiki/BASIC) and dialects and derivatives:  
   * [Microsoft Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic)
   * Microsoft [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic) and derivatives and cousin:  
@@ -33,6 +35,7 @@ This document lists some possible topics for future research with respect to wha
 * [`bc`](https://en.wikipedia.org/wiki/Bc_(programming_language))
 * [BCPL](https://en.wikipedia.org/wiki/BCPL)
 * [Batch files](https://en.wikipedia.org/wiki/Batch_file)
+* [Bertrand](https://en.wikipedia.org/wiki/Bertrand_(programming_language))
 * [BitC](https://en.wikipedia.org/wiki/BitC)
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)) and variant dialect:  
   * [SA-C](https://en.wikipedia.org/wiki/SA-C_(programming_language)) (Notable only for how it added an alternate multi-dimensional array design to C, _not_ for the features it removed from that language to be, in the minds of its creators, more useful for embedded hardware.)  
@@ -68,6 +71,7 @@ This document lists some possible topics for future research with respect to wha
 * [Chapel](https://en.wikipedia.org/wiki/Chapel_(programming_language))
 * [Choc](https://github.com/fullstackio/choc)
 * [Cilk](https://en.wikipedia.org/wiki/Cilk)
+* [Claire](https://en.wikipedia.org/wiki/Claire_(programming_language))
 * [Clarion](https://en.wikipedia.org/wiki/Clarion_(programming_language))
 * [Clipper](https://en.wikipedia.org/wiki/Clipper_(programming_language)) and related software:  
   * [xHarbour](https://en.wikipedia.org/wiki/XHarbour)
@@ -137,7 +141,8 @@ This document lists some possible topics for future research with respect to wha
 * [Groovy](https://en.wikipedia.org/wiki/Groovy_(programming_language))
 * [Hack](https://en.wikipedia.org/wiki/Hack_(programming_language))
 * [Hartmann pipelines](https://en.wikipedia.org/wiki/Hartmann_pipeline)
-* [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) and descendant:  
+* [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) and descendants/derivatives:  
+  * [Curry](https://en.wikipedia.org/wiki/Curry_(programming_language))
   * [hobbes](https://github.com/Morgan-Stanley/hobbes)
 * [Haxe](https://en.wikipedia.org/wiki/Haxe)
 * [High Level Assembly](https://en.wikipedia.org/wiki/High_Level_Assembly)
@@ -231,7 +236,8 @@ This document lists some possible topics for future research with respect to wha
 * [Model 204](https://en.wikipedia.org/wiki/Model_204) (_Maybe…?_  Notable for its database scheme, anyway, which is also listed in [the section on 'Programming Concepts and Methodologies' below](#programming-concepts-and-methodologies).)  
 * [Modelica](https://en.wikipedia.org/wiki/Modelica)
 * [Modula](https://en.wikipedia.org/wiki/Modula) and successors:  
-  * [Modula-2](https://en.wikipedia.org/wiki/Modula-2) and derivative:  
+  * [Modula-2](https://en.wikipedia.org/wiki/Modula-2) and derivatives:  
+    * [Alma-0](https://en.wikipedia.org/wiki/Alma-0)
     * [Modula-2+](https://en.wikipedia.org/wiki/Modula-2%2B)
   * [Modula-3](https://en.wikipedia.org/wiki/Modula-3)
 * [Mouse](https://en.wikipedia.org/wiki/Mouse_(programming_language))
@@ -304,7 +310,14 @@ This document lists some possible topics for future research with respect to wha
 * [PowerHouse](https://en.wikipedia.org/wiki/PowerHouse_(programming_language)) (Notable only for the brevity of some programs written in it.)  
 * [Processing](https://en.wikipedia.org/wiki/Processing_(programming_language)) and related language:  
   * [Processing.js](https://en.wikipedia.org/wiki/Processing.js)
-* [Prolog](https://en.wikipedia.org/wiki/Prolog) and variant dialects:  
+* [Prolog](https://en.wikipedia.org/wiki/Prolog) and various dialects and derivatives:  
+  * [B-Prolog](https://en.wikipedia.org/wiki/B-Prolog)
+  * [CHIP](https://en.wikipedia.org/wiki/CHIP_(programming_language)) and a derivative/descendant of it:  
+    * [ILOG](https://en.wikipedia.org/wiki/ILOG)
+  * [Ciao](https://en.wikipedia.org/wiki/Ciao_(programming_language))
+  * [ECLiPSe](https://en.wikipedia.org/wiki/ECLiPSe)
+  * [GNU Prolog](https://en.wikipedia.org/wiki/GNU_Prolog)
+  * [SWI-Prolog](https://en.wikipedia.org/wiki/SWI-Prolog)
   * [Visual Prolog](https://en.wikipedia.org/wiki/Visual_Prolog)
   * [XSB](https://en.wikipedia.org/wiki/XSB)
 * [PROMELA](https://en.wikipedia.org/wiki/Promela)
