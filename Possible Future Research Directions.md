@@ -412,6 +412,7 @@ This document lists some possible topics for future research with respect to wha
   * [Tk](https://en.wikipedia.org/wiki/Tk_(software))
   * [XOTcl](https://en.wikipedia.org/wiki/XOTcl)
 * [Tea](https://en.wikipedia.org/wiki/Tea_(programming_language))
+* [Terra](https://github.com/zdevito/terra)
 * [TeX](https://en.wikipedia.org/wiki/TeX) and associated software packages, including, but not limited to (see [CTAN], the Comprehensive TeX Archive Network](http://www.ctan.org/) ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page) article [here](https://en.wikipedia.org/wiki/CTAN)) (Really only relevant in the context of 'literate programming;' see the referecnes to packages implementing this in TeX below and [the relevant link](#literate-programming) in [the section on 'Programming Concepts and Methodologies' later on](#programming-concepts-and-methodologies):)  
   * [BibTeX](https://en.wikipedia.org/wiki/BibTeX)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
