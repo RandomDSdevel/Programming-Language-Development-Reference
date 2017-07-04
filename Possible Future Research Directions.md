@@ -210,6 +210,7 @@ This document lists some possible topics for future research with respect to wha
 * [`make`](https://en.wikipedia.org/wiki/Make_(software))
 * The [Maude system](https://en.wikipedia.org/wiki/Maude_system)
 * [Maple](https://en.wikipedia.org/wiki/Maple_(software))
+* [Mary](https://en.wikipedia.org/wiki/Mary_(programming_language))
 * [Mathcad](https://en.wikipedia.org/wiki/Mathcad)
 * Wolfram [Mathematica](https://en.wikipedia.org/wiki/Mathematica)
 * [MATLAB](https://en.wikipedia.org/wiki/MATLAB) and related software:  
