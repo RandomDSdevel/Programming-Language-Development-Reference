@@ -491,6 +491,7 @@ This document lists some possible topics for future research with respect to wha
 * [Cohesion ([in] computer science)](https://en.wikipedia.org/wiki/Cohesion_(computer_science))
 * [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering)
 * [Concept programming](https://en.wikipedia.org/wiki/Concept_programming)
+* [Conceptual integrity](https://en.wikipedia.org/wiki/The_Mythical_Man-Month#Conceptual_integrity)
 * [Concurrent programming](https://en.wikipedia.org/wiki/Concurrent_computing) and variant:  
   * [Relativistic programming](https://en.wikipedia.org/wiki/Relativistic_programming)
 * [Coupling ([in] computer science)](https://en.wikipedia.org/wiki/Coupling_(computer_programming))
