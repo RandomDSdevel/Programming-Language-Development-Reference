@@ -323,7 +323,7 @@ This document lists some possible topics for future research with respect to wha
   * [XSB](https://en.wikipedia.org/wiki/XSB)
 * [PROMELA](https://en.wikipedia.org/wiki/Promela)
 * [Pure](https://en.wikipedia.org/wiki/Pure_(programming_language))
-* Python and related technologies, as well as variants:  
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) and related technologies, as well as variants:  
   * [Cython](https://en.wikipedia.org/wiki/Cython)
   * [Jython](https://en.wikipedia.org/wiki/Jython)
   * [Stackless Python](https://en.wikipedia.org/wiki/Stackless_Python)
