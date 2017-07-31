@@ -29,7 +29,7 @@ This document lists some possible topics for future research with respect to wha
 * [BASIC](https://en.wikipedia.org/wiki/BASIC) and dialects and derivatives:  
   * [Microsoft Small Basic](https://en.wikipedia.org/wiki/Microsoft_Small_Basic)
   * Microsoft [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic) and derivatives and cousin:  
-    * [LotusSript](https://en.wikipedia.org/wiki/LotusScript)
+    * [LotusScript](https://en.wikipedia.org/wiki/LotusScript)
     * Microsoft [Visual Basic for Applications](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications)
     * [Visual Basic .NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET), Visual Basic's quasi-successor.  
   * [ProvideX](https://en.wikipedia.org/wiki/ProvideX)
@@ -92,7 +92,7 @@ This document lists some possible topics for future research with respect to wha
   * [POP-2](https://en.wikipedia.org/wiki/POP-2) and descendant:  
     * [POP-11](https://en.wikipedia.org/wiki/POP-11)
 * [CUDA](https://en.wikipedia.org/wiki/CUDA)
-* [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language))
+* [Curl](https://en.wikipedia.org/wiki/Curl_(programming_language)) (Not to be confused with [cURL](https://en.wikipedia.org/wiki/CURL))
 * [Cyclone](https://en.wikipedia.org/wiki/Cyclone_(programming_language))
 * [D](https://en.wikipedia.org/wiki/D_(programming_language))
 * [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))
@@ -159,7 +159,7 @@ This document lists some possible topics for future research with respect to wha
 * [Hume](https://en.wikipedia.org/wiki/Hume_(programming_language))
 * [HyperTalk](https://en.wikipedia.org/wiki/HyperTalk) (as used in [HyperCard](https://en.wikipedia.org/wiki/HyperCard) and derivative:  
   * [SenseTalk](https://en.wikipedia.org/wiki/SenseTalk)
-  * [Strongtalk](https://en.wikipedia.org/wiki/Strongtalk)
+  * [Strongtalk](https://en.wikipedia.org/wiki/Strongtalk))
 * [Idris](https://en.wikipedia.org/wiki/Idris_(programming_language))
 * [IMP](https://en.wikipedia.org/wiki/IMP_(programming_language))
 * [Io](https://en.wikipedia.org/wiki/Io_(programming_language))
@@ -183,7 +183,7 @@ This document lists some possible topics for future research with respect to wha
   * [Q](https://en.wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems))
 * [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope_(programming_language))
 * [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
-* [L](https://en.wikipedia.org/wiki/L_(programming_language)) (second bulleted item; see also [here](http://home.cc.gatech.edu/tony/61))
+* [L](https://en.wikipedia.org/wiki/L_(programming_language)) (second bulleted item on that link's target web page; see also [here](http://home.cc.gatech.edu/tony/61))
 * [LabVIEW](https://en.wikipedia.org/wiki/LabVIEW)
 * [Language Integrated Query](https://en.wikipedia.org/wiki/Language_Integrated_Query)
 * The [Language Server Protocol](https://en.wikipedia.org/wiki/Language_Server_Protocol)
@@ -225,7 +225,7 @@ This document lists some possible topics for future research with respect to wha
 * Wolfram [Mathematica](https://en.wikipedia.org/wiki/Mathematica)
 * [MATLAB](https://en.wikipedia.org/wiki/MATLAB) and related software:  
   * Additional software packages:  
-    * Symbolic Math Toolkit (Based on [MuPAD](https://en.wikipedia.org/wiki/MuPAD)
+    * Symbolic Math Toolkit (Based on [MuPAD](https://en.wikipedia.org/wiki/MuPAD))
     * [Simulink](https://en.wikipedia.org/wiki/Simulink)
   * Open-source implementations:  
     * [Octave](https://en.wikipedia.org/wiki/GNU_Octave)
@@ -374,7 +374,7 @@ This document lists some possible topics for future research with respect to wha
 * [`sed`](https://en.wikipedia.org/wiki/Sed)
 * [Seed7](https://en.wikipedia.org/wiki/Seed7)
 * [SequenceL](https://en.wikipedia.org/wiki/SequenceL)
-* [SETL](https://en.wikipedia.org/wiki/SETL) (Notable for its use in the creation of the NYU Ada/ED translator, the first validated Ada implementation as well as its incorporation of ideas from [set theory](https://en.wikipedia.org/wiki/Set_theory) and [first-order predicate logic](https://en.wikipedia.org/wiki/First-order_predicate_logic).)  
+* [SETL](https://en.wikipedia.org/wiki/SETL) (Notable for its use in the creation of the NYU Ada/ED translator, the first validated Ada implementation, as well as its incorporation of ideas from [set theory](https://en.wikipedia.org/wiki/Set_theory) and [first-order predicate logic](https://en.wikipedia.org/wiki/First-order_predicate_logic).)  
 * [SiMPLE](https://en.wikipedia.org/wiki/SiMPLE) (Notable for its 'Drag & Drop' mode of delivering code to the language's interpreter presciently reminiscent of how [macOS](https://en.wikipedia.org/wiki/MacOS) [Dock](https://en.wikipedia.org/wiki/Dock_(macOS)) icons can open files that are dragged on top of them.)  
 * Shell and text-editor scripting languages such as those used in:  
   * [Bourne shell](https://en.wikipedia.org/wiki/Bourne_shell) and derivatives, including:  
@@ -431,7 +431,7 @@ This document lists some possible topics for future research with respect to wha
 * [Tea](https://en.wikipedia.org/wiki/Tea_(programming_language))
 * [Telescript](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [Terra](https://github.com/zdevito/terra)
-* [TeX](https://en.wikipedia.org/wiki/TeX) and associated software packages, including, but not limited to (see [CTAN], the Comprehensive TeX Archive Network](http://www.ctan.org/) ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page) article [here](https://en.wikipedia.org/wiki/CTAN)) (Really only relevant in the context of 'literate programming;' see the referecnes to packages implementing this in TeX below and [the relevant link](#literate-programming) in [the section on 'Programming Concepts and Methodologies' later on](#programming-concepts-and-methodologies):)  
+* [TeX](https://en.wikipedia.org/wiki/TeX) and associated software packages, including, but not limited to (see [CTAN, the Comprehensive TeX Archive Network](http://www.ctan.org/) ([Wikipedia](https://en.wikipedia.org/wiki/Main_Page) article [here](https://en.wikipedia.org/wiki/CTAN)) (Really only relevant in the context of 'literate programming;' see the referecnes to packages implementing this in TeX below and [the relevant link](#literate-programming) in [the section on 'Programming Concepts and Methodologies' later on](#programming-concepts-and-methodologies):)  
   * [BibTeX](https://en.wikipedia.org/wiki/BibTeX)
   * [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
   * [Literate programming](#literate-programming) packages:  
@@ -466,12 +466,12 @@ This document lists some possible topics for future research with respect to wha
 * [Visual DialogScript](https://en.wikipedia.org/wiki/Visual_DialogScript)
 * [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
 * [Visual Objects](https://en.wikipedia.org/wiki/Visual_Objects)
-* [vvvv](https://en.wikipedia.org/wiki/Vvvv) (Not to be confused with the video game [_VVVVVV_](https://en.wikipedia.org/wiki/VVVVVV)
+* [vvvv](https://en.wikipedia.org/wiki/Vvvv) (Not to be confused with the video game [_VVVVVV_](https://en.wikipedia.org/wiki/VVVVVV))
 * [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly)
 * [WebDNA](https://en.wikipedia.org/wiki/WebDNA)
 * [WebGL](https://en.wikipedia.org/wiki/WebGL)
 * [Web IDL](https://en.wikipedia.org/wiki/Web_IDL)
-* [WebQL[(https://en.wikipedia.org/wiki/WebQL)
+* [WebQL](https://en.wikipedia.org/wiki/WebQL)
 * [Whiley](https://en.wikipedia.org/wiki/Whiley_(programming_language))
 * [Winbatch](https://en.wikipedia.org/wiki/Winbatch)
 * [Wolfram Language](https://en.wikipedia.org/wiki/Wolfram_Language)
@@ -503,7 +503,7 @@ This document lists some possible topics for future research with respect to wha
   * [Semantic resolution tree](https://en.wikipedia.org/wiki/Semantic_resolution_tree)
   * [Symbol table](https://en.wikipedia.org/wiki/Symbol_table)
 * The [abstraction principle](https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)) and a generalization of it:  
-  * The ['Don't Repeat Yourself' (DRY)]https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle
+  * The ['Don't Repeat Yourself' (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle
 * [Action language](https://en.wikipedia.org/wiki/Action_language)
 * [Agent-oriented programming](https://en.wikipedia.org/wiki/Agent-oriented_programming)
 * [Applicative programming languages](https://en.wikipedia.org/wiki/Applicative_programming_language)
@@ -552,16 +552,16 @@ This document lists some possible topics for future research with respect to wha
               * Unsigned; able to store only values greater than or equal to 0 (zero) within the precision of the integral type in question
               * Signed; able to represent negative numbers in addition to those representable as unsigned integral values within the precision of the backing data type by a shift in the range of values it can store
         * <a name="rational-numbers">[Rational numbers](https://en.wikipedia.org/wiki/Rational_data_type)</a> of, similarly to integers, varying [precision](https://en.wikipedia.org/wiki/Precision_(computer_science)), [range](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable), and [signedness](https://en.wikipedia.org/wiki/Signedness), often used as approximate representations of [real numbers](https://en.wikipedia.org/wiki/Real_data_type), such as:  
-          * Arbitrary [fractions]()https://en.wikipedia.org/wiki/Fraction_(mathematics) with numerators and denominators of, similarly to integers, varying [precision](https://en.wikipedia.org/wiki/Precision_(computer_science)), [range](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable), and [signedness](https://en.wikipedia.org/wiki/Signedness):  
+          * Arbitrary [fractions](https://en.wikipedia.org/wiki/Fraction_(mathematics)) with numerators and denominators of, similarly to integers, varying [precision](https://en.wikipedia.org/wiki/Precision_(computer_science)), [range](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable), and [signedness](https://en.wikipedia.org/wiki/Signedness):  
             * Common [precisions](https://en.wikipedia.org/wiki/Precision_(computer_science)) and [ranges](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable) include those imposed by the constraints of:  
-              • 16-bit (2-byte) storage
+              * 16-bit (2-byte) storage
               * 32-bit (4-byte) storage
               * 64-bit (8-byte) storage
               * Larger storage extents; common examples of these are:  
                 * 128-bit (16-byte) storage
                 * Flexibly sized storage suitable for use with [arbitrary-precision](https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic) integers; not always implemented as a fundamental type, but made available (typically as a library abstraction) all the same.  
               * Smaller storage extents; not commonly implemented, if at all.  
-            * [Signedness](https://en.wikipedia.org/wiki/Signedness)) may manifest itself in a data type by making it either of the following possibilities:  
+            * [Signedness](https://en.wikipedia.org/wiki/Signedness) may manifest itself in a data type by making it either of the following possibilities:  
               * Unsigned; able to store only values greater than or equal to 0 (zero) within the precision of the integral type in question
               * Signed; able to represent negative numbers in addition to those representable as unsigned integral values within the precision of the backing data type by a shift in the range of values it can store
           * [Fixed-point](https://en.wikipedia.org/wiki/Fixed-point_arithmetic) numbers of, similarly to natural numbers, integers, and other rational numbers, varying [precision](https://en.wikipedia.org/wiki/Precision_(computer_science)), [range](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable), and [signedness](https://en.wikipedia.org/wiki/Signedness)
@@ -574,7 +574,7 @@ This document lists some possible topics for future research with respect to wha
                 * The [x86 extended-precision format](https://en.wikipedia.org/wiki/Extended_precision#x86_extended_precision_format), consuming 80 bits, or 8.1875 bytes, of backing storage
               * [Quadruple precision](https://en.wikipedia.org/wiki/Quadruple-precision_floating-point_format), consuming 128 bits, or 16 bytes, of backing storage
               * [Octuple precision](https://en.wikipedia.org/wiki/Octuple-precision_floating-point_format), consuming 256 bits, or 32 bytes, of backing storage
-            * As also explained earlier, [signedness](https://en.wikipedia.org/wiki/Signedness)) may manifest itself in a data type by making it either of the following possibilities:  
+            * As also explained earlier, [signedness](https://en.wikipedia.org/wiki/Signedness) may manifest itself in a data type by making it either of the following possibilities:  
               * Unsigned; able to store only values greater than or equal to 0 (zero) within the precision of the floating-point data type in question
               * Signed; able to represent negative numbers in addition to those representable as unsigned floating-point values within the precision of the backing data type by a shift in the range of values it can store
 
@@ -583,22 +583,17 @@ This document lists some possible topics for future research with respect to wha
       * [Imaginary numbers](https://en.wikipedia.org/wiki/Imaginary_number) of, similarly to natural numbers, integers, and rational numbers, varying [precision](https://en.wikipedia.org/wiki/Precision_(computer_science)), [range](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable), and [signedness](https://en.wikipedia.org/wiki/Signedness)
       * <a name="complex-numbers">[Complex numbers](https://en.wikipedia.org/wiki/Complex_number)</a> of, similarly to natural numbers, integers, and rational numbers, varying [precision](https://en.wikipedia.org/wiki/Precision_(computer_science)), [ranges](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable), and [signedness](https://en.wikipedia.org/wiki/Signedness):  
         * Common [precisions](https://en.wikipedia.org/wiki/Precision_(computer_science)) and [ranges](https://en.wikipedia.org/wiki/Range_(computer_programming)#Range_of_a_variable) include the same ones as those supported by floating-point numbers, as those types are in relatively common use for storing complex numbers' real and imaginary parts.  
-        * Again, as also explained earlier, [signedness](https://en.wikipedia.org/wiki/Signedness)) may manifest itself in a data type by making it either of the following possibilities:  
-            * Unsigned; able to store only values greater than or equal to 0 (zero) within the precision of the type backing the complex number type in question
-            * Signed; able to represent negative numbers in addition to those representable as unsigned complex numeric values within the precision of the backing data type by a shift in the range of values it can store
+        * Again, as also explained earlier, [signedness](https://en.wikipedia.org/wiki/Signedness) may manifest itself in a data type by making it either of the following possibilities:  
+          * Unsigned; able to store only values greater than or equal to 0 (zero) within the precision of the type backing the complex number type in question
+          * Signed; able to represent negative numbers in addition to those representable as unsigned complex numeric values within the precision of the backing data type by a shift in the range of values it can store
 
       (Note that complex numbers are not classified as typical arithemtic types here since their [elementary operations](https://en.wikipedia.org/wiki/Complex_number#Elementary_operations) consist both of member-wise arithmetic on their real and imaginary parts and of more complicated operations involving both their real _and_ their imaginary parts at the same time.)  
 
-  (Note that any of the types of numbers mentioned under this bullet point can be encoded in various [bases](https://en.wikipedia.org/wiki/Radix), including, but not limited to:  
-    * [Binary (base-2)](https://en.wikipedia.org/wiki/Binary_number)
-    * [Octal (base-8)](https://en.wikipedia.org/wiki/Octal)
-    * [Decimal (base-10)](https://en.wikipedia.org/wiki/Decimal) (For input by and output to human readers, as well as for other purposes)
-    * [Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal))
-
+  (Note that any of the types of numbers mentioned under this bullet point can be encoded in various [bases](https://en.wikipedia.org/wiki/Radix), including, but not limited to:  [binary](https://en.wikipedia.org/wiki/Binary_number) (base-2; [octal](https://en.wikipedia.org/wiki/Octal) (base-8;) [decimal](https://en.wikipedia.org/wiki/Decimal) (base-10; for human production and consumption, among other purposes;) and [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal).)  
     * <a name="characters">[Characters](https://en.wikipedia.org/wiki/Character_(computing))</a> in various [encodings](https://en.wikipedia.org/wiki/Character_encoding), some (at least _relatively_) [common examples](https://en.wikipedia.org/wiki/Character_encoding#Common_character_encodings) of which include, but are not limited to:  
       * [ASCII (American Standard Code for Information Interchange)](https://en.wikipedia.org/wiki/ASCII)
       * [ISO/IEC 8859](https://en.wikipedia.org/wiki/ISO/IEC_8859)
-      * [EBCDIC (Extended Binary Coded Decimal Interchange Code)(https://en.wikipedia.org/wiki/EBCDIC) (No longer common.  Mostly used today only on IBM hardware for backwards-compatibility purposes, apparently.)  
+      * [EBCDIC (Extended Binary Coded Decimal Interchange Code)](https://en.wikipedia.org/wiki/EBCDIC) (No longer common.  Mostly used today only on IBM hardware for backwards-compatibility purposes, apparently.)  
       * Various legacy [character encodings](https://en.wikipedia.org/wiki/Character_encoding) and [code pages](https://en.wikipedia.org/wiki/Code_page), examples of which include:  
         * [Mac OS Roman](https://en.wikipedia.org/wiki/Mac_OS_Roman) (A relic of the [classic Mac OS](https://en.wikipedia.org/wiki/Classic_Mac_OS))
         * The [Microsoft Windows code pages](https://en.wikipedia.org/wiki/Windows_code_page)
@@ -747,7 +742,7 @@ This document lists some possible topics for future research with respect to wha
   * [Natural-language programming](https://en.wikipedia.org/wiki/Natural_language_programming)
 * Learnable programming (See the blog post by the same name in the following section.)  
 * <a name="Liskov-substitutability">[Liskov substitutability](https://en.wikipedia.org/wiki/Liskov_substitution_principle)</a> (See also ['subtyping'](#subtyping).)  
-* [Memory management[(https://en.wikipedia.org/wiki/Memory_management) and related topics:  
+* [Memory management](https://en.wikipedia.org/wiki/Memory_management) and related topics:  
   * [Manual memory management](https://en.wikipedia.org/wiki/Manual_memory_management) (Note that this is _quite_ low-level and can easily lead to programmer/programming error(s,) thus resulting in code that [is not memory-safe](https://en.wikipedia.org/wiki/Manual_memory_management#Manual_management_and_correctness).)  
   * [Memory safety](https://en.wikipedia.org/wiki/Memory_safety)
   * [Resource acquisition is initialization (RAII)](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)
@@ -884,6 +879,6 @@ This document lists some possible topics for future research with respect to wha
 
 ## Sources
 
-* [Wikipedia]https://en.wikipedia.org/wiki/Main_Page) content:  
+* [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) content:  
   * [List of programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages)
   * [Template:Programming paradigms](https://en.wikipedia.org/wiki/Template:Programming_paradigms)
