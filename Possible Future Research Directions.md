@@ -305,6 +305,7 @@ This document lists some possible topics for future research with respect to wha
 * [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) and derivatives:  
   * [Object Pascal](https://en.wikipedia.org/wiki/Object_Pascal) family of language derivatives
   * [UCSD Pascal](https://en.wikipedia.org/wiki/UCSD_Pascal)
+* [Pawn](https://www.compuphase.com/pawn/pawn.htm)
 * [Perl](https://en.wikipedia.org/wiki/Perl) and related library and language derivative:  
   * [Perl Data Language](https://en.wikipedia.org/wiki/Perl_Data_Language)
   * [Perl 6](https://en.wikipedia.org/wiki/Perl_6) and one of its implementation's implementation details:  
