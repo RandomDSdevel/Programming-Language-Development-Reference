@@ -170,6 +170,7 @@ This document lists some possible topics for future research with respect to wha
 * [J](https://en.wikipedia.org/wiki/J_(programming_language))
 * [J♯](https://en.wikipedia.org/wiki/J_Sharp)
 * [J++](https://en.wikipedia.org/wiki/Visual_J%2B%2B)
+* Jai (Mostly undocumented; see [this YouTube playlist](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO) and [this GitHub repository](https://github.com/BSVino/JaiPrimer) for what few notes there are as of this writing.)  
 * [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and related technologies:  
   * [JavaFX Script](https://en.wikipedia.org/wiki/JavaFX_Script)
   * [Visual J++](https://en.wikipedia.org/wiki/Visual_J%2B%2B)
@@ -492,6 +493,7 @@ This document lists some possible topics for future research with respect to wha
 * [Yorick](https://en.wikipedia.org/wiki/Yorick_(programming_language))
 * [Z notation](https://en.wikipedia.org/wiki/Z_notation)
 * [Zeno](https://en.wikipedia.org/wiki/Zeno_(programming_language))
+* [Zig](http://ziglang.org/)
 * [ZPL](https://en.wikipedia.org/wiki/ZPL_(programming_language))
 
 ## Programming Concepts and Methodologies
