@@ -1,10 +1,8 @@
-# Possible Future Research Directions
+# Programming Language Development Reference
 
-## Abstract/Introduction/Summary
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A research reference for aspiring programming-language developers.  
 
-This document lists some possible topics for future research with respect to what sources inspiration could be taken from in the development of this programming language.  
-
-## Other Programming Languages, Libraries, and Environments and Computer Technologies
+## Programming Languages, Libraries, and Environments, Including Computer Technologies
 
 * [Active Server Pages](https://en.wikipedia.org/wiki/Active_Server_Pages)/[ASP.NET](https://en.wikipedia.org/wiki/ASP.NET)
 * [ActiveX](https://en.wikipedia.org/wiki/ActiveX)
