@@ -425,6 +425,7 @@
 * Apple [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Swift](https://en.wikipedia.org/wiki/Swift_(parallel_scripting_language))
 * [Tangle](http://worrydream.com/Tangle/)
+* [Tart](https://code.google.com/archive/p/tart/)
 * [Tcl](https://en.wikipedia.org/wiki/Tcl) and extensions:  
   * [Tk](https://en.wikipedia.org/wiki/Tk_(software))
   * [XOTcl](https://en.wikipedia.org/wiki/XOTcl)
