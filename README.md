@@ -862,6 +862,7 @@
 * ['Up and Down the Ladder of Abstraction'](http://worrydream.com/LadderOfAbstraction/) by Bret Victor
 * ['Not Everything is an Expression'](http://www.rntz.net/post/2016-06-06-not-everything-is-an-expression.html) by Michael Arntzenius
 * ['Aphorisms on programming language design'](http://www.rntz.net/post/2017-01-27-aphorisms-on-pl-design.html) by Michael Arntzenius
+* ['Beware of the Turing Tar-Pit'](http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html) by Reginald 'Raganwald' Braithwaite
 
 ## Notes
 
