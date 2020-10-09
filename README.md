@@ -189,6 +189,7 @@
 * [Language Integrated Query](https://en.wikipedia.org/wiki/Language_Integrated_Query)
 * The [Language Server Protocol](https://en.wikipedia.org/wiki/Language_Server_Protocol)
 * [Lasso](https://en.wikipedia.org/wiki/Lasso_(programming_language))
+* [Leaf](http://web.archive.org/web/20190906091128/http://leaflang.org/)
 * [Leda](https://en.wikipedia.org/wiki/Leda_(programming_language))
 * [Limbo](https://en.wikipedia.org/wiki/Limbo_(programming_language))
 * [Lingo](https://en.wikipedia.org/wiki/Lingo_(programming_language))
