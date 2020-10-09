@@ -861,6 +861,10 @@
 
 * [_Growing a Language_](http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf) by Guy L. Steele, Jr.
 
+## Articles
+
+* ['C Is Not a Low-level Language'](https://queue.acm.org/detail.cfm?id=3212479) (ACM Queue volume 16, issue 2) by David Chisnall
+
 ## Blog Posts
 
 * ['Learnable Programming'](http://worrydream.com/LearnableProgramming/) by Bret Victor
