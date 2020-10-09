@@ -857,6 +857,10 @@
   See also ['data type(s) and its/their various manifestations'](#data-types)[<sup>2</sup>](#endnote-2).  
 * [Value-level programming](https://en.wikipedia.org/wiki/Value-level_programming)
 
+## Technical Papers
+
+* [_Growing a Language_](http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf) by Guy L. Steele, Jr.
+
 ## Blog Posts
 
 * ['Learnable Programming'](http://worrydream.com/LearnableProgramming/) by Bret Victor
