@@ -877,6 +877,10 @@
 * ['Aphorisms on programming language design'](http://www.rntz.net/post/2017-01-27-aphorisms-on-pl-design.html) by Michael Arntzenius
 * ['Beware of the Turing Tar-Pit'](http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html) by Reginald 'Raganwald' Braithwaite
 
+## Books
+
+* [_Practical Foundations for Programming Languages (Second Edition)_](https://www.cs.cmu.edu/~rwh/pfpl/index.html) by Robert Harper
+
 ## Notes
 
 [N. b.](https://en.wikipedia.org/wiki/Nota_bene):  Most notes in this document are included inline in parentheses at the end of the bullet-point/-item lines to which they apply.  
