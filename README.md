@@ -881,6 +881,8 @@
 
 * [_Practical Foundations for Programming Languages (Second Edition)_](https://www.cs.cmu.edu/~rwh/pfpl/index.html) by Robert Harper
 
+  (A pre-publication draft is freely available to read [here](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf).)  
+
 ## Notes
 
 [N. b.](https://en.wikipedia.org/wiki/Nota_bene):  Most notes in this document are included inline in parentheses at the end of the bullet-point/-item lines to which they apply.  
