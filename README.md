@@ -165,6 +165,7 @@
 * [IPL](https://en.wikipedia.org/wiki/Information_Processing_Language)
 * [Isabelle](https://en.wikipedia.org/wiki/Isabelle_(proof_assistant))
 * [ISWIM](https://en.wikipedia.org/wiki/ISWIM)
+* [Ivy](http://web.archive.org/web/20170424121138/http://ivy.cs.berkeley.edu/ivywiki/index.php)
 * [J](https://en.wikipedia.org/wiki/J_(programming_language))
 * [J♯](https://en.wikipedia.org/wiki/J_Sharp)
 * [J++](https://en.wikipedia.org/wiki/Visual_J%2B%2B)
