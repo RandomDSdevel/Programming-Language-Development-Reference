@@ -69,6 +69,7 @@
 * [Ceylon](https://en.wikipedia.org/wiki/Ceylon_(programming_language))
 * [CFML (ColdFusion Markup Language)](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language)
 * [Chapel](https://en.wikipedia.org/wiki/Chapel_(programming_language))
+* The [CHECKS Pattern Language of Information Integrity](https://c2.com/ppr/checks.html) by Ward Cunningham
 * [Choc](https://github.com/fullstackio/choc)
 * [Cilk](https://en.wikipedia.org/wiki/Cilk)
 * [Claire](https://en.wikipedia.org/wiki/Claire_(programming_language))
