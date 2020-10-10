@@ -255,6 +255,7 @@
 * [Moxy](https://github.com/rntz/moxy)
 * [MUMPS](https://en.wikipedia.org/wiki/MUMPS) and a related language:  
   * [MIIS](https://en.wikipedia.org/wiki/MIIS_(programming_language))
+* [Myrddin](https://myrlang.org/)
 * [Napier88](https://en.wikipedia.org/wiki/Napier88)
 * [Neko](https://en.wikipedia.org/wiki/Neko_(programming_language))
 * [Nemerle](https://en.wikipedia.org/wiki/Nemerle)
