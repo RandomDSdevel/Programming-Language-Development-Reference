@@ -74,6 +74,7 @@
 * [Cilk](https://en.wikipedia.org/wiki/Cilk)
 * [Claire](https://en.wikipedia.org/wiki/Claire_(programming_language))
 * [Clarion](https://en.wikipedia.org/wiki/Clarion_(programming_language))
+* [Clay](https://claylabs.com/clay/)
 * [Clipper](https://en.wikipedia.org/wiki/Clipper_(programming_language)) and related software:  
   * [xHarbour](https://en.wikipedia.org/wiki/XHarbour)
 * [Clojure](https://en.wikipedia.org/wiki/Clojure)
