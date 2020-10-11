@@ -69,6 +69,7 @@
 * [Ceylon](https://en.wikipedia.org/wiki/Ceylon_(programming_language))
 * [CFML (ColdFusion Markup Language)](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language)
 * [Chapel](https://en.wikipedia.org/wiki/Chapel_(programming_language))
+* The [CHECKS Pattern Language of Information Integrity](https://c2.com/ppr/checks.html) by Ward Cunningham
 * [Choc](https://github.com/fullstackio/choc)
 * [Cilk](https://en.wikipedia.org/wiki/Cilk)
 * [Claire](https://en.wikipedia.org/wiki/Claire_(programming_language))
@@ -165,6 +166,7 @@
 * [IPL](https://en.wikipedia.org/wiki/Information_Processing_Language)
 * [Isabelle](https://en.wikipedia.org/wiki/Isabelle_(proof_assistant))
 * [ISWIM](https://en.wikipedia.org/wiki/ISWIM)
+* [Ivy](http://web.archive.org/web/20170424121138/http://ivy.cs.berkeley.edu/ivywiki/index.php)
 * [J](https://en.wikipedia.org/wiki/J_(programming_language))
 * [J♯](https://en.wikipedia.org/wiki/J_Sharp)
 * [J++](https://en.wikipedia.org/wiki/Visual_J%2B%2B)
@@ -187,6 +189,7 @@
 * [Language Integrated Query](https://en.wikipedia.org/wiki/Language_Integrated_Query)
 * The [Language Server Protocol](https://en.wikipedia.org/wiki/Language_Server_Protocol)
 * [Lasso](https://en.wikipedia.org/wiki/Lasso_(programming_language))
+* [Leaf](http://web.archive.org/web/20190906091128/http://leaflang.org/)
 * [Leda](https://en.wikipedia.org/wiki/Leda_(programming_language))
 * [Limbo](https://en.wikipedia.org/wiki/Limbo_(programming_language))
 * [Lingo](https://en.wikipedia.org/wiki/Lingo_(programming_language))
@@ -243,6 +246,7 @@
   * [Caml](https://en.wikipedia.org/wiki/Caml) and derivative implementations:  
     * [OCaml](https://en.wikipedia.org/wiki/OCaml)
   * [Standard ML](https://en.wikipedia.org/wiki/Standard_ML)
+* [MLIR (Multi-Level Intermediate Representation)](https://mlir.llvm.org/) (Compiler infrastructure project.)  
 * [Model 204](https://en.wikipedia.org/wiki/Model_204) (_Maybe…?_  Notable for its database scheme, anyway, which is also listed in [the section on 'Programming Concepts and Methodologies' below](#programming-concepts-and-methodologies).)  
 * [Modelica](https://en.wikipedia.org/wiki/Modelica)
 * [Modula](https://en.wikipedia.org/wiki/Modula) and successors:  
@@ -254,6 +258,7 @@
 * [Moxy](https://github.com/rntz/moxy)
 * [MUMPS](https://en.wikipedia.org/wiki/MUMPS) and a related language:  
   * [MIIS](https://en.wikipedia.org/wiki/MIIS_(programming_language))
+* [Myrddin](https://myrlang.org/)
 * [Napier88](https://en.wikipedia.org/wiki/Napier88)
 * [Neko](https://en.wikipedia.org/wiki/Neko_(programming_language))
 * [Nemerle](https://en.wikipedia.org/wiki/Nemerle)
@@ -425,6 +430,7 @@
 * Apple [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Swift](https://en.wikipedia.org/wiki/Swift_(parallel_scripting_language))
 * [Tangle](http://worrydream.com/Tangle/)
+* [Tart](https://code.google.com/archive/p/tart/)
 * [Tcl](https://en.wikipedia.org/wiki/Tcl) and extensions:  
   * [Tk](https://en.wikipedia.org/wiki/Tk_(software))
   * [XOTcl](https://en.wikipedia.org/wiki/XOTcl)
@@ -854,12 +860,22 @@
   See also ['data type(s) and its/their various manifestations'](#data-types)[<sup>2</sup>](#endnote-2).  
 * [Value-level programming](https://en.wikipedia.org/wiki/Value-level_programming)
 
+## Technical Papers
+
+* [_Growing a Language_](http://www.cs.virginia.edu/~evans/cs655/readings/steele.pdf) by Guy L. Steele, Jr.
+
+## Articles
+
+* ['C Is Not a Low-level Language'](https://queue.acm.org/detail.cfm?id=3212479) (ACM Queue volume 16, issue 2) by David Chisnall
+* ['Little things that matter in language design'](https://lwn.net/Articles/553131/) by Neil Brown, _LWN.net_
+
 ## Blog Posts
 
 * ['Learnable Programming'](http://worrydream.com/LearnableProgramming/) by Bret Victor
 * ['Up and Down the Ladder of Abstraction'](http://worrydream.com/LadderOfAbstraction/) by Bret Victor
 * ['Not Everything is an Expression'](http://www.rntz.net/post/2016-06-06-not-everything-is-an-expression.html) by Michael Arntzenius
 * ['Aphorisms on programming language design'](http://www.rntz.net/post/2017-01-27-aphorisms-on-pl-design.html) by Michael Arntzenius
+* ['Beware of the Turing Tar-Pit'](http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html) by Reginald 'Raganwald' Braithwaite
 
 ## Notes
 
