@@ -867,6 +867,7 @@
 ## Articles
 
 * ['C Is Not a Low-level Language'](https://queue.acm.org/detail.cfm?id=3212479) (ACM Queue volume 16, issue 2) by David Chisnall
+* ['Little things that matter in language design'](https://lwn.net/Articles/553131/) by Neil Brown, _LWN.net_
 
 ## Blog Posts
 
