@@ -246,6 +246,7 @@
   * [Caml](https://en.wikipedia.org/wiki/Caml) and derivative implementations:  
     * [OCaml](https://en.wikipedia.org/wiki/OCaml)
   * [Standard ML](https://en.wikipedia.org/wiki/Standard_ML)
+* [MLIR (Multi-Level Intermediate Representation)](https://mlir.llvm.org/) (Compiler infrastructure project.)  
 * [Model 204](https://en.wikipedia.org/wiki/Model_204) (_Maybe…?_  Notable for its database scheme, anyway, which is also listed in [the section on 'Programming Concepts and Methodologies' below](#programming-concepts-and-methodologies).)  
 * [Modelica](https://en.wikipedia.org/wiki/Modelica)
 * [Modula](https://en.wikipedia.org/wiki/Modula) and successors:  
